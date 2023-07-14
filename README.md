@@ -18,7 +18,7 @@ The application is designed to be user-friendly and intuitive. It provides a wel
 <br>
 <hr>
 
-## Deployment link  [Vercel link](https://quiz-app-one-sand.vercel.app/) 
+## Deployment link  [Vercel link](quiz-dfna1dywv-nancy77zion.vercel.app) 
 
 ## Features
 
