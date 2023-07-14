@@ -11,9 +11,9 @@ The application is designed to be user-friendly and intuitive. It provides a wel
 ## Screenshots of CodeQuiz app
 <hr>
 <div>
-  <img src="./template/images/ss-1.png" alt="Image 1" style="width:25%; border: 1px solid black; margin-right: 2px; display:inline-block;">
-  <img src="./template/images/ss-2.png" alt="Image 2" style="width:30%; border: 1px solid black; display:inline-block;">
-  <img src='./template/images/default.png' alt='mediaid' style="width:30%  border: 1px solid black; display:inline-block;">
+  <img src="./src/assets/welcome.JPG" alt="welcome" style="width:25%; border: 1px solid black; margin-right: 2px; display:inline-block;">
+  <img src="./src/assets/Quiz.JPG" alt="Image 2" style="width:30%; border: 1px solid black; display:inline-block;">
+  <img src='./src/assets/result.JPG' alt='mediaid' style="width:30%  border: 1px solid black; display:inline-block;">
 </div><br>
 <hr>
 
