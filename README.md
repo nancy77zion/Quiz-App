@@ -18,6 +18,8 @@ The application is designed to be user-friendly and intuitive. It provides a wel
 <br>
 <hr>
 
+## Deployment link  [Vercel link](https://quiz-app-one-sand.vercel.app/) and  [Netlify link](https://quiz-vite-app.netlify.app/)
+
 ## Features
 
 - Interactive quizzes to test your React.js knowledge
